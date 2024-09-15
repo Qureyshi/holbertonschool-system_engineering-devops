@@ -1,7 +1,3 @@
-Web Infrastructure Design for www.foobar.com
-Infrastructure Diagram
-Here's a textual description of the three-server web infrastructure with security and monitoring features:
-
 ![1_MhxvI1JIsOaWkLKkQN-QqA](https://github.com/user-attachments/assets/d6314872-1fef-4051-b82b-5ff8d68bc963)
 
 Components and Their Purpose
