@@ -2,7 +2,8 @@ Distributed Web Infrastructure Design
 Diagram
 Here’s a textual representation of a three-server web infrastructure setup for www.foobar.com:
 
-![t2](https://github.com/user-attachments/assets/9fc1ad07-06ac-49ce-a6b5-49f41561fe64)
+![t2](https://github.com/user-attachments/assets/3e6f30a1-5d43-4a5e-88e9-c700d366c469)
+
 
 Explanation of Components
 User's Browser:
