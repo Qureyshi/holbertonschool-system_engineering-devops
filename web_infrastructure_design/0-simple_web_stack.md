@@ -1,5 +1,3 @@
-Certainly! Here’s a textual representation of a diagram showing the web stack described. This diagram outlines the single-server setup and the flow of requests:
-
 ![t1](https://github.com/user-attachments/assets/0814186a-1fac-4160-8bd8-1517d4706b3c)
 
 Explanation of Diagram
