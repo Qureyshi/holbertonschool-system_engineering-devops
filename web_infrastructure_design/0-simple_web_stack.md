@@ -1,7 +1,8 @@
 Certainly! Here’s a textual representation of a diagram showing the web stack described. This diagram outlines the single-server setup and the flow of requests:
 +----------------------------------+
 |         User's Browser            |
-|    (Request for www.foobar.com)   |
+|    (Request for www.foobar.com)   |![t1](https://github.com/user-attachments/assets/dbf1bbb5-aaf1-4181-9026-5436c6d0eeec)
+
 +------------------+---------------+
                    |
                    |
