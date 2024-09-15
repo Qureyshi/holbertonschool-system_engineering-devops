@@ -1,49 +1,6 @@
 Certainly! Here’s a textual representation of a diagram showing the web stack described. This diagram outlines the single-server setup and the flow of requests:
-+----------------------------------+
-|         User's Browser            |
-|    (Request for www.foobar.com)   |![t1](https://github.com/user-attachments/assets/dbf1bbb5-aaf1-4181-9026-5436c6d0eeec)
+![t1](https://github.com/user-attachments/assets/46f0e894-c80c-4ae1-a9a1-33ded3bcb837)
 
-+------------------+---------------+
-                   |
-                   |
-                   V
-+----------------------------------+
-|              DNS Server           |
-|   (Resolves www.foobar.com to     |
-|            IP Address 8.8.8.8)   |
-+------------------+---------------+
-                   |
-                   |
-                   V
-+----------------------------------+
-|         Web Server (Nginx)        |
-|  +------------------------------+  |
-|  | Application Server           |  |
-|  | (Handles Application Code)   |  |
-|  +------------------------------+  |
-|  |                              |  |
-|  | +--------------------------+ |  |
-|  | | Application Files        | |  |
-|  | | (HTML, CSS, JavaScript,  | |  |
-|  | | PHP Scripts)             | |  |
-|  | +--------------------------+ |  |
-|  |                              |  |
-|  +------------------------------+  |
-|           |        |               |
-|           |        |               |
-|           V        V               |
-|     +--------------------+         |
-|     |     Database       |         |
-|     |     (MySQL)        |         |
-|     +--------------------+         |
-+----------------------------------+
-                   |
-                   |
-                   V
-+----------------------------------+
-|         User's Browser            |
-|    (Receives Response from Server)|
-+----------------------------------+
 
 Explanation of Diagram
 User's Browser:
