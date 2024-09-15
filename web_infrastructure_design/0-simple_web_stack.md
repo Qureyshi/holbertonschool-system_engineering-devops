@@ -1,4 +1,6 @@
 Certainly! Here’s a textual representation of a diagram showing the web stack described. This diagram outlines the single-server setup and the flow of requests:
+
+
 ![t1](https://github.com/user-attachments/assets/46f0e894-c80c-4ae1-a9a1-33ded3bcb837)
 
 
