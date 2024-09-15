@@ -2,7 +2,7 @@ Web Infrastructure Design for www.foobar.com
 Infrastructure Diagram
 Here's a textual description of the three-server web infrastructure with security and monitoring features:
 
-![t3](https://github.com/user-attachments/assets/e1951e60-5710-4d12-9149-050dcd4c233e)
+![1_MhxvI1JIsOaWkLKkQN-QqA](https://github.com/user-attachments/assets/d6314872-1fef-4051-b82b-5ff8d68bc963)
 
 Components and Their Purpose
 Load Balancer (with SSL Termination)
